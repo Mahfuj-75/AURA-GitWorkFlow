@@ -1,1 +1,5 @@
 "# Implemented Features" 
+"## T-14: Create Admin Profile" 
+"This task involves creating a admin profile with valid aiub id and password,including validation and error handling."
+"**Status: Implemented**" 
+"" 
