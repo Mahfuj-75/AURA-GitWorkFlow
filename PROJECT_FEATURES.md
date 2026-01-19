@@ -1,1 +1,5 @@
 "# Implemented Features" 
+"## T-14: Implement Review drop application" 
+"This task involves Review drop application, including validation and error handling." 
+"**Status: Implemented**" 
+"" 
