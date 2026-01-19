@@ -20,3 +20,6 @@
 "This task involves creating student profile with id and password fields, including validation and error handling." 
 "**Status: Implemented create student profile**" 
 "" 
+"## T-16 : Implement update student course" 
+"This task involves updating student course with id and password fields, including validation and error handling." 
+"" 
