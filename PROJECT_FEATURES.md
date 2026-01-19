@@ -16,3 +16,7 @@
 "This task involves managing a sections with id and password fields, including validation and error handling." 
 "**Status: Implemented manage sections**" 
 "" 
+"## T-16 : Implement create student profile" 
+"This task involves creating student profile with id and password fields, including validation and error handling." 
+"**Status: Implemented create student profile**" 
+"" 
