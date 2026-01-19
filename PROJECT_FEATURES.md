@@ -16,3 +16,7 @@
 "This task involves Push Notification,including validation and error handling."
 "**Status: Implemented**" 
 "" 
+"## T-18: Implement Push Result" 
+"This task involves Push Result,including validation and error handling."  
+"**Status: Implemented**" 
+"" 
