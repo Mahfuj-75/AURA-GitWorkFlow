@@ -3,3 +3,7 @@
 "This task involves creating faculty profile with email and password fields, including validation and error handling." 
 "**Status: Implemented**" 
 "" 
+"## T-16 : Implement create faculty profile" 
+"This task involves creating a faculty profile with id and password fields, including validation and error handling." 
+"**Status: Implemented faculty profile**" 
+"" 
