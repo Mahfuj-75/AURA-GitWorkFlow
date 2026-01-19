@@ -7,3 +7,7 @@
 "This task involves creating a faculty profile with id and password fields, including validation and error handling." 
 "**Status: Implemented faculty profile**" 
 "" 
+"## T-16 : Implement create sections" 
+"This task involves creating a sections with id and password fields, including validation and error handling." 
+"**Status: Implemented faculty profile**" 
+"" 
