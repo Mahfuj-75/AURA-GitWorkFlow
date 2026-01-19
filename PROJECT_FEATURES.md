@@ -3,3 +3,6 @@
 "This task invloves creating a class schedule routine, including wrror handling."
 "**Status: Implemented**"
 ""
+"## T-14 implement routine view"
+"This task involves creating a login form student viewing routine, including error handling."
+"" 
