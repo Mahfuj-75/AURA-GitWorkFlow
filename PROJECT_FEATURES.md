@@ -1,1 +1,5 @@
 "# Implemented Features" 
+"## T-14: Implement Create faculty profile" 
+"This task involves creating faculty profile with email and password fields, including validation and error handling." 
+"**Status: Implemented**" 
+"" 
