@@ -1,1 +1,5 @@
 "# Implemented Features" 
+"## T-14: Implement class routine schedule"
+"This task invloves creating a class schedule routine, including wrror handling."
+"**Status: Implemented**"
+""
