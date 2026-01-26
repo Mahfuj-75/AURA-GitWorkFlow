@@ -1,1 +1,21 @@
 "# Implemented Features" 
+<<<<<<< HEAD
+"## T-14: Implement class routine schedule"
+"This task invloves creating a class schedule routine, including wrror handling."
+"**Status: Implemented**"
+""
+=======
+"## T-14: Create Admin Profile" 
+"This task involves creating a admin profile with valid aiub id and password,including validation and error handling."
+"**Status: Implemented**" 
+"" 
+"## T-14: Implement User Login Page" 
+"## T-14: Implement create course" 
+"This task involves creating a student course."
+"**Status: Implemented**" 
+"" 
+"## T-14: Implement slot approve or reject" 
+"this task involves student book slot thn admin approve or rejected."
+"**Status: Implemented**" 
+"" 
+>>>>>>> c15d1952c7f72b6859dd1e55688b2a82836a5bf6
